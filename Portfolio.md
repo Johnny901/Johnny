@@ -1,5 +1,5 @@
 
-## Online Address Book
+# Online Address Book
 
 The webpage allows the user to view contact details in an Address Book with the option to request various pieces of additional information. It consists on one main HTML page that uses jQuery and leverages AJAX functionality to retrieve data. The page is used to access and display details which is stored using JSON.
 
@@ -11,7 +11,7 @@ The user is able to ;
  ![Image](AddressBook.png)
  
  
- ## Car Insurance Quote Form
+ # Car Insurance Quote Form
  
 This web page allows a car driver to review their ‘saved’ quotation for car insurance renewal. The page includes jQuery / jQuery UI components that offer the following functionality;
 - Use of HTML5 doc type and associated elements and appropriate validation of input
@@ -23,7 +23,7 @@ This web page allows a car driver to review their ‘saved’ quotation for car 
  ![Image](carins.png)
  
  
- ## Music Upload and Reviewal Website
+ # Music Upload and Reviewal Website
 
 The website is intended as a repository for users to upload personal music which will then be reviewed by other users. An agile model and Gantt Chart was used for organisational purposes with the following technologies used: 
 - VB.NET/ASP.NET in Visual Studio 2015. 
