@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Johnny901/Johnny/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Online Address Book
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The webpage allows the user to view contact details in an Address Book with the option to request various pieces of additional information. It consists on one main HTML page that uses jQuery and leverages AJAX functionality to retrieve data. The page is used to access and display details which is stored using JSON.
 
-### Markdown
+The user is able to ;
+ - Hover over an person and be presented with an overview of them
+ - Clicking on the contact results in the provision of a more detailed description of the person.
+ - Content is accessed from JSON formatted information using jQuery in order to view additional related people.
+ 
+ ![Image](AddressBook.png)
+ 
+ # Car Insurance Quote Form
+ 
+This web page allows a car driver to review their ‘saved’ quotation for car insurance renewal. The page includes jQuery / jQuery UI components that offer the following functionality;
+- Use of HTML5 doc type and associated elements and appropriate validation of input
+- Use of jQuery selectors to add and remove classes and adding elements directly into the DOM such as Hide/Show/Fade/Toggle capabilities
+- Event Handling, such as form field updates
+- Tooltips to identify fields with errors.
+- An AJAX connection to populate the web form with data via JSON
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ ![Image](carins.png)
+ 
+ # Music Upload and Reviewal Website
 
-```markdown
-Syntax highlighted code block
+The website is intended as a repository for users to upload personal music which will then be reviewed by other users. An agile model and Gantt Chart was used for organisational purposes with the following technologies used: 
+- VB.NET/ASP.NET in Visual Studio 2015. 
+- HTML, CSS and JavaScript/jQuery edited through Visual Studio and Brackets.
+- SQL was used for the database through the Visual Studio environment.
 
-# Header 1
-## Header 2
-### Header 3
+The website contains the following features using these technologies;
+- User Login functionality
+- Tab and table functionality
+- Database display and manipulation with user restrictions.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Johnny901/Johnny/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ![Image](FinalLayoutMusicpage.PNG)
