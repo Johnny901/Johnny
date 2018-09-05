@@ -2,7 +2,7 @@
 
 ## MK Poker Tables Website
 
-I created a website and logo for my brothers poker table business through the Wix environment using the domain www.mkpokertables.ni. The dynamic webpage allows users to view the services provided by the company, provides social media links and information on the company including a contact form.
+I created a website and logo for my brothers poker table business through the Wix environment using the domain https://www.mkpokertablesni.com/. The dynamic webpage allows users to view the services provided by the company, provides social media links and information on the company including a contact form.
 
  ![Image](MKPokerScreen.pdf)
  
